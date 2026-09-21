@@ -1,16 +1,15 @@
-## Hi there 👋
+![Привет, я Arizulu!](./rainbow-header.svg)
 
-<!--
-**Arizulu/Arizulu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Just a stupid geek 😸
 
-Here are some ideas to get you started:
+---
+<p align="left">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dzB3NmNybDNxc3NydG10czQzNTN6a2diMTFhYjl4ZnZoeGdleG90aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wcgn5fVDjvR7pdvz4C/giphy.gif" width="400" alt="Hello Neon">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## 🛠️ Мой стек и технологии
+
+| Категория | Технологии и инструменты |
+| :--- | :--- |
+| **Языки программирования** | `Python` 🐍 • `C` 💻 |
