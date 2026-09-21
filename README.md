@@ -6,8 +6,9 @@
 </p>
 
 ---
-## 🛠️ My Tech Stack & Tools
+## $\color{purple}{\text{🛠️ My Tech Stack \\& Tools}}$
 
-| Category | Technologies & Tools |
+| $\color{purple}{\text{Category}}$ | $\color{purple}{\text{Technologies \\& Tools}}$ |
 | :--- | :--- |
-| **Programming Languages** | `Python` 🐍 • `C` 💻 |
+| **$\color{purple}{\text{Programming Languages}}$** | <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python"/> <img src="https://skillicons.dev/icons?i=c" width="65" height="65" alt="Python"/> |
+
