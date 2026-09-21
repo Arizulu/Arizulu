@@ -1,4 +1,4 @@
-![Привет, я Arizulu!](./rainbow-header.svg)
+![Hello, I'm Arizulu!](./rainbow-header.svg)
 
 > Just a stupid geek 😸
 
