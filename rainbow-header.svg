@@ -1,0 +1,26 @@
+<svg width="700" height="90" viewBox="0 0 700 90" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="rainbow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff0000">
+        <animate attributeName="stop-color"
+          values="#ff0000;#ff9900;#ffee00;#33ff00;#00ffee;#0066ff;#cc00ff;#ff0000"
+          dur="4s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#00ffee">
+        <animate attributeName="stop-color"
+          values="#00ffee;#0066ff;#cc00ff;#ff0000;#ff9900;#ffee00;#33ff00;#00ffee"
+          dur="4s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#cc00ff">
+        <animate attributeName="stop-color"
+          values="#cc00ff;#ff0000;#ff9900;#ffee00;#33ff00;#00ffee;#0066ff;#cc00ff"
+          dur="4s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+  <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle"
+        font-family="Segoe UI, Verdana, Arial, sans-serif" font-size="42" font-weight="700"
+        fill="url(#rainbow)">
+    Привет, я Arizulu!
+  </text>
+</svg>
