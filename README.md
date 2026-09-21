@@ -8,8 +8,8 @@
 </p>
 
 ---
-## 🛠️ Мой стек и технологии
+## 🛠️ My Tech Stack & Tools
 
-| Категория | Технологии и инструменты |
+| Category | Technologies & Tools |
 | :--- | :--- |
-| **Языки программирования** | `Python` 🐍 • `C` 💻 |
+| **Programming Languages** | `Python` 🐍 • `C` 💻 |
